@@ -1,5 +1,7 @@
 # test_rust_csv
 
+![Rust](https://github.com/yutiansut/test_rust_csv/workflows/Rust/badge.svg)
+
 ```bash
 cargo run --color=always --package test_csv --example example
 ```
