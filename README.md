@@ -29,3 +29,6 @@ thanks
 
 
 @yutiansut
+
+
+here is a ci test using Github Action [Action](https://github.com/yutiansut/test_rust_csv/runs/443795265?check_suite_focus=true#step:3:61)
